@@ -1,0 +1,9 @@
+# sleazyfork 脚本
+DOMAIN-SUFFIX,sleazyfork.org
+
+# steam
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,store.steampowered.com
+
+# mihomo
+DOMAIN-SUFFIX,metacubex.one
