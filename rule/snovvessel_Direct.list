@@ -1,10 +1,16 @@
+#qbittorrent
+PROCESS-NAME,qbittorrent
+PROCESS-NAME,qbittorrent-nox
+
+#zerotire
+PROCESS-NAME,zerotier-one
+
 # Adobe
 DOMAIN-SUFFIX,photo-api.adobe.io
 
-# Steam
-DOMAIN,steampipe.akamaized.net
-DOMAIN,cdn.steamstatic.com
+# steam
 DOMAIN-SUFFIX,steampipe.akamaized.net
+DOMAIN-SUFFIX,cdn.steamstatic.com
 
 # Tracker
 DOMAIN,tr2.ysagin.top
