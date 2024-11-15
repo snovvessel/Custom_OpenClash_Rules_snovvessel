@@ -1,3 +1,6 @@
+$dler.io
+DOMAIN,api.dler.io
+
 #qbittorrent
 PROCESS-NAME,qbittorrent
 PROCESS-NAME,qbittorrent-nox
