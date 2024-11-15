@@ -1,1 +1,20 @@
+# Adobe
+DOMAIN-SUFFIX,photo-api.adobe.io
 
+# Steam
+DOMAIN,steampipe.akamaized.net
+DOMAIN,cdn.steamstatic.com
+DOMAIN-SUFFIX,steampipe.akamaized.net
+
+# Tracker
+DOMAIN,tr2.ysagin.top
+
+# Else
+DOMAIN-SUFFIX,i-s.fun
+DOMAIN-SUFFIX,374649.xyz
+
+# Forge
+DOMAIN,media.forgecdn.net
+
+# modrinth
+DOMAIN,cdn.modrinth.com
