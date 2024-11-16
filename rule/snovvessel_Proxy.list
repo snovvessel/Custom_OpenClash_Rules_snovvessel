@@ -9,4 +9,4 @@ DOMAIN-SUFFIX,store.steampowered.com
 DOMAIN-SUFFIX,metacubex.one
 
 # Google Play
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com # 部分子域名无法直连
