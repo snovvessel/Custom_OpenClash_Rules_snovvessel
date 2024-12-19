@@ -13,7 +13,7 @@ DOMAIN-SUFFIX,photo-api.adobe.io
 
 # steam
 DOMAIN-SUFFIX,steampipe.akamaized.net
-DOMAIN-SUFFIX,cdn.steamstatic.com
+DOMAIN-SUFFIX,steamstatic.com
 
 # Tracker
 DOMAIN,tr2.ysagin.top
