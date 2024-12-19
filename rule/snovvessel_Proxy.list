@@ -2,8 +2,8 @@
 DOMAIN-SUFFIX,sleazyfork.org
 
 # steam
-DOMAIN-SUFFIX,steamcommunity.com
-DOMAIN-SUFFIX,store.steampowered.com
+#DOMAIN-SUFFIX,steamcommunity.com
+#DOMAIN-SUFFIX,store.steampowered.com
 
 # mihomo
 DOMAIN-SUFFIX,metacubex.one
